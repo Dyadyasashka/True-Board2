@@ -1,6 +1,6 @@
 opencv-python
 streamlit
-tensorflow-cpu
+tensorflow
 ultralytics==8.0.20
 roboflow
 dtw
