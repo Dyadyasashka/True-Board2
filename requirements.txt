@@ -4,4 +4,4 @@ tensorflow-cpu
 ultralytics==8.0.20
 roboflow
 dtw
-libGL.so.1
+conda install -c conda-forge opencv
