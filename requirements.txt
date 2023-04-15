@@ -1,12 +1,12 @@
 
-protobuf>=3.20.3,<5.0.0dev
+protobuf
 streamlit
 
 ultralytics
 roboflow
 dtw
 streamlit
-opencv-python-headless
+opencv-python
 textblob
 scipy
 numpy
