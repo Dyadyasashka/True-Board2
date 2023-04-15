@@ -1,0 +1,7 @@
+opencv-python
+streamlit
+tensorflow-cpu
+ultralytics==8.0.20
+roboflow
+dtw
+libGL.so.1
