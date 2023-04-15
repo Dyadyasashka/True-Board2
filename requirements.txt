@@ -4,4 +4,4 @@ tensorflow-cpu
 ultralytics==8.0.20
 roboflow
 dtw
-conda install -c conda-forge opencv
+sudo apt-get install libgl1-mesa-glx
